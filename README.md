@@ -14,8 +14,8 @@
 3. 引入jquery validation 框架验证必填项是否为空
 
 # 第三版
-1）引入bootstrap 样式（注册和登录界面)
-2）添加bootstrap -table插件，实现 列表展示所有注册的用户信息
+1. 引入bootstrap 样式（注册和登录界面)
+2. 添加bootstrap -table插件，实现 列表展示所有注册的用户信息
 
 
 # 注意事项：
